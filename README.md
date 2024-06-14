@@ -14,3 +14,4 @@ Best-First Search is a search algorithm that explores a graph by expanding the m
 ### A* Search
 A* Search is an extension of Best-First Search that includes the cost to reach the node (g(n)) and the estimated cost to reach the goal from the node (h(n)), effectively balancing the path cost and the heuristic.
  
+![robot](https://github.com/Ifra-Zaib/Automatic-Robot-Delivery/assets/172352661/2fc78cd2-f5a8-4d45-a6ef-d27fdb1921d5)
